@@ -22,8 +22,8 @@ for(let i = 0; i < dogName.length; i++){
     }
 
 
-
 //footer style
+let footer = document.querySelector('.footer')
 footer.style.borderStyle = 'solid'
 footer.style.color = "pink"
 footer.style.backgroundColor = "orange"
